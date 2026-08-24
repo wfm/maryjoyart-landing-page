@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mary Joy Murphy",
+    "description": "",
+    "home_page_url": "https://wfm.github.io/maryjoyart-landing-page",
+    "feed_url": "https://wfm.github.io/maryjoyart-landing-page/feed.json",
+    "user_comment": "",
+    "icon": "https://wfm.github.io/maryjoyart-landing-page/media/website/paint-brush.svg",
+    "author": {
+        "name": "Bill"
+    },
+    "items": [
+    ]
+}
