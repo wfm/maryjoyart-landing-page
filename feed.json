@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Mary Joy Murphy",
     "description": "",
-    "home_page_url": "https://wfm.github.io/maryjoyart-landing-page",
-    "feed_url": "https://wfm.github.io/maryjoyart-landing-page/feed.json",
+    "home_page_url": "https://maryjoyart.com",
+    "feed_url": "https://maryjoyart.com/feed.json",
     "user_comment": "",
-    "icon": "https://wfm.github.io/maryjoyart-landing-page/media/website/paint-brush.svg",
+    "icon": "https://maryjoyart.com/media/website/paint-brush.svg",
     "author": {
         "name": "Bill"
     },
